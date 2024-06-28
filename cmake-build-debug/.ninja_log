@@ -1,0 +1,21 @@
+# ninja log v6
+0	426	1719492804883768283	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+428	519	1719492805310844830	Inventory_Management	74dd0cabb8585391
+7	451	1719496860140857548	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+451	565	1719496860584604096	Inventory_Management	74dd0cabb8585391
+12	534	1719507378644297728	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+534	653	1719507379166363705	Inventory_Management	74dd0cabb8585391
+2	302	1719509570454678892	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+302	397	1719509570754299168	Inventory_Management	74dd0cabb8585391
+4	322	1719509617572811304	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+322	354	1719509617891410943	Inventory_Management	74dd0cabb8585391
+4	572	1719509943752728168	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+573	666	1719509944321302822	Inventory_Management	74dd0cabb8585391
+4	512	1719510426480596545	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+512	606	1719510426988287930	Inventory_Management	74dd0cabb8585391
+4	372	1719510448365310685	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+372	403	1719510448732988843	Inventory_Management	74dd0cabb8585391
+22	594	1719560026490147060	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+594	713	1719560027061762158	Inventory_Management	74dd0cabb8585391
+26	588	1719571402114257532	CMakeFiles/Inventory_Management.dir/main.cpp.o	49de1ee28558e62c
+588	705	1719571402676678347	Inventory_Management	74dd0cabb8585391
